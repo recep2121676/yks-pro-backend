@@ -1,7 +1,3 @@
 fastapi
 uvicorn
-pydantic
-pydantic-core
-passlib
-python-jose
-cryptography
+pydantic[email]
